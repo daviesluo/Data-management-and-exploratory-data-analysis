@@ -1,0 +1,47 @@
+commit 1d33216abb73ba195191ee55fef63c34a5e9a9fa
+Author: Davies Luo <daviesluo@Daviess-MacBook-Pro.local>
+Date:   Fri Nov 17 15:48:21 2023 +0000
+
+    The whole R Markdown report checked and adjusted
+
+commit a99f37e02a454b4198286271aae5d4be9daad27f
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-58-211-149.ncl.ac.uk>
+Date:   Thu Nov 16 18:32:34 2023 +0000
+
+    Deployment added
+
+commit 82907bc210239ecbc283e513602a332cfee0f391
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-58-211-149.ncl.ac.uk>
+Date:   Thu Nov 16 16:34:11 2023 +0000
+
+    R Markdown of the second CRISP-DM cycle finished
+
+commit 5f53dbe083ec3f4f4dcdc8bc5a601ca47eb0643c
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-58-233-159.ncl.ac.uk>
+Date:   Wed Nov 15 19:43:16 2023 +0000
+
+    The second cycle of CRISP-DM's data preparation and modelling added
+
+commit d2826acdf6810fd4ebf90995518010681b3e6c90
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-58-199-143.ncl.ac.uk>
+Date:   Wed Nov 15 10:59:24 2023 +0000
+
+    The second cycle of CRISP-DM's business understanding and data understanding added
+
+commit 8a4d5baf6483a0d931991b7567173761126d29e9
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-59-73-123.ncl.ac.uk>
+Date:   Tue Nov 14 23:02:05 2023 +0000
+
+    Updated version with introduction added and evaluation modified
+
+commit 3cf62bff726e8c995268056ad2d7d7c314c24af1
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-58-195-150.ncl.ac.uk>
+Date:   Mon Nov 13 11:37:12 2023 +0000
+
+    R Markdown of the first CRISP-DM cycle
+
+commit f256a3a49149c93a62d403a2efbb900d3008471b
+Author: Davies Luo <daviesluo@newhuaweiapstudent-10-59-78-245.ncl.ac.uk>
+Date:   Thu Nov 9 18:34:52 2023 +0000
+
+    Data Preparation and Modelling
